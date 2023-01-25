@@ -13,7 +13,7 @@ public class DemoApplication {
 		classForTable obj = new classForTable();
 
 		obj.setId(117);
-		obj.setName("manoj");
+		obj.setName("raja");
 	}
 
 }
